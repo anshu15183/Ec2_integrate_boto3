@@ -100,6 +100,3 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ## Acknowledgments
 - **AWS Documentation**: For detailed insights on Boto3 usage.
 - **Python Community**: For robust libraries enabling seamless integration.
-
-For questions or feedback, open an issue or contact me at [your_email@example.com].
-
